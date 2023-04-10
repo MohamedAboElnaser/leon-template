@@ -124,7 +124,7 @@ body .icons {
 
 /* Start banner styling */
 .banner {
-  background-image: url(/images/mountain.jpg);
+  background-image: url(../images/mountain.jpg);
   background-size: cover;
   height: calc(100vh - 70.39px);
   position: relative;
